@@ -1,1 +1,57 @@
-# anagha
+## Hi there
+
+I'm *Anagha*, an Integrated MSc Data Science student with a strong interest in data analytics, AI, machine learning, and deep learning. I enjoy exploring complex datasets, building predictive models, and applying AI/ML techniques to solve real-world problems. My goal is to gain expertise in data-driven decision-making and contribute to innovative, impactful solutions in the field of data science.
+
+<a href="https://www.linkedin.com/in/anagha-c-a43b08313/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<details>
+  <summary>More about me</summary>
+
+- *Name*: Anagha C
+- *From*: Kerala, India
+- I have achieved First Prize in State Level Yoga championship.
+- Completed a project in Reinforcement Learning titled “Predictive Patrol Routing Using RL - A Temporal-Spatial Crime-Aware Approach” and another project using Machine Learning and Graph-Based Learning titled “Global UFO Sightings Forecasting Using Network-Enhanced Time Series Analysis.”
+
+</details>
+<br>
+
+---
+
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+
+<br>
+
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&color=000000" alt="SQL" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=000000" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=000000" alt="Deep Learning" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&color=000000" alt="Jira" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black&color=000000" alt="Power BI" />
+
+  </div>
+</div>
+
+---
+<h2 id="Certifications" align=''> Certifications </h2>
+
+<div>
+<img src="https://img.shields.io/badge/HackerRank_SQL-Basic_Certified?style=for-the-badge&logo=hackerrank&logoColor=white&color=000000" alt="HackerRank SQL Basic Certification" />
+<img src="https://img.shields.io/badge/NPTEL_Python_for_Data_Science-Certified-orange?style=for-the-badge&color=000000" alt="NPTEL Certification" />
+<img src="https://img.shields.io/badge/Infosys_Springboard_Email_Writing-Certified-blue?style=for-the-badge&color=000000" alt="Infosys Springboard Certification" />
+<img src="https://img.shields.io/badge/Coursera_Power_BI-Certified-orange?style=for-the-badge&color=000000" alt="Coursera Power BI Certification" />
+
+
+</div>
+
+---
+
+<h2 id="Projects" align=''> Projects </h2>
+
+
+| *Project*      | *Description*                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[ParkSmart-RL](https://github.com/vaibhavv2004/ParkSmart-RL)**    | ParkSmart-RL: PPO-based intelligent parking slot selection using reinforcement learning. Agent optimizes cost, distance & availability in a dynamic 12-slot lot. Real-time Pygame visualization with vehicle path tracing, reward heatmap & interactive controls. Built with Stable-Baselines3, Gymnasium and Python. |
+| **[Project 2](https://github.com/)**    | Short Description |
+| **[Project 3](https://github.com/)**    | Short Description | 

@@ -52,6 +52,6 @@ I'm *Anagha*, an Integrated MSc Data Science student with a strong interest in d
 
 | *Project*      | *Description*                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[ParkSmart-RL](https://github.com/vaibhavv2004/ParkSmart-RL)**    | ParkSmart-RL: PPO-based intelligent parking slot selection using reinforcement learning. Agent optimizes cost, distance & availability in a dynamic 12-slot lot. Real-time Pygame visualization with vehicle path tracing, reward heatmap & interactive controls. Built with Stable-Baselines3, Gymnasium and Python. |
+| **[Predictive-Patrol-Using-RL](https://github.com/Anaghac2004/Predictive-Patrol-Routing-Using-RL)** | A Reinforcement Learning (PPO-based) patrol optimization system designed to improve police route planning using spatio-temporal crime forecasting. |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 

@@ -53,5 +53,5 @@ I'm *Anagha*, an Integrated MSc Data Science student with a strong interest in d
 | *Project*      | *Description*                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Predictive-Patrol-Using-RL](https://github.com/Anaghac2004/Predictive-Patrol-Routing-Using-RL)** | A Reinforcement Learning (PPO-based) patrol optimization system designed to improve police route planning using spatio-temporal crime forecasting. |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[UFO-Sightings-Forecasting-with-Graph-Based-ML](https://github.com/Anaghac2004/UFO-Sightings-Forecasting-with-Graph-Based-ML)**    | End-to-end project that analyzes global UFO sighting data (1900–2024), builds a region similarity graph, and trains machine learning models to forecast monthly sightings and predict 2026 hotspot regions.|
 | **[Project 3](https://github.com/)**    | Short Description | 

@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm *Anagha*, an Integrated MSc Data Science student with a strong interest in data analytics, AI, machine learning, and deep learning. I enjoy exploring complex datasets, building predictive models, and applying AI/ML techniques to solve real-world problems. My goal is to gain expertise in data-driven decision-making and contribute to innovative, impactful solutions in the field of data science.
+I am Anagha, an Integrated MSc Data Science student passionate about leveraging data analytics, artificial intelligence, machine learning, and deep learning to uncover insights from complex datasets. With a strong foundation in predictive modeling and advanced AI techniques, I actively explore innovative solutions to address real-world challenges. My goal is to become an expert in data-driven decision-making and contribute meaningful, cutting-edge advancements in the field of data science.
 
 <a href="https://www.linkedin.com/in/anagha-c-a43b08313/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
